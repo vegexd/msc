@@ -1,0 +1,15 @@
+////////DRIVING CONTROLS////////
+Game is tested with these controllers:
+Logitech G27/G25
+Logitech G920
+Logitech DFGT
+Thrustmaster T300 RS
+Thrustmaster T500 RS + TH8 RS Shifter
+Thrustmaster Ferrari Challenge
+Fanatec Forza Motorsport CSR / CSR Elite Pedals / CSR Shifter
+Xbox controller
+////////////////////////////////
+
+/////////SAVE DATA PATH/////////
+C:\USERS\USERNAME\APPDATA\LOCALLOW\AMISTECH\MY SUMMER CAR
+////////////////////////////////
